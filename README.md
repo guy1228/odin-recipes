@@ -1,1 +1,1 @@
-This is a work in progress project for a recipe site, mirroring the OdinProject's tutorials as I refresh my skills!
+This is a project for a recipe site, mirroring the OdinProject's tutorials as I refresh my skills!
